@@ -143,6 +143,9 @@
                     },                     {
                         UniversityName: "Wilfrid Laurier University",                         specialization: "Bachelor of Science,  Computer Science and Physics", MonthOfStarting: "September",                         YearOfStarting: "2014",                         MonthOfPassing: "April",                         YearOfPassing: "2018",                         Achievements: "Computing and Computer Electronics is a program that combines computer science,  electronics and mathematics.In this program I learned to solve problems using hardware and software co- design and embedded system solutions."}], software: [
               {
+                name: "Hole Spin Qubit Quantum Processors",         affiliation: "Nanoelectronic Quantum Hardware",             link: "#",                 linkName: "",                     description: "Designed and fabricated over twenty quantum-dot-based spin-qubit processors on novel materials, improving on fabrication processes.",
+              },
+              {
                 name: "Q# TypeScript",         affiliation: "Open Source Npm Module",             link: "https://www.npmjs.com/package/q-sharp-ts",                 linkName: "Code",                     description: "Q#, the high-level quantum programming language for quantum circuit specification, implemented in TypeScript.",     additionalInfoLink: "https://github.com/comp-phys-marc/q-sharp-ts",         additionalInfoName: "GitHub",             package: "q-sharp-ts"
               },
               {
