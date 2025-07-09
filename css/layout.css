@@ -511,8 +511,17 @@ ul#nav li.current a { color: #BB342F; }
 .implementations-of-quantum-information-processing {
    width: 84%;
 }
-.graduate-quantum-mechanics {
-   width: 65%;
+.introduction-to-quantum-computing {
+   width: 92%;
+}
+.quantum-devices {
+   width: 93%;
+}
+.germanium-quantum-technologies {
+   width: 100%;
+}
+.quantum-circuits-and-compiling {
+   width: 100%;
 }
 
 /* ------------------------------------------------------------------ */
