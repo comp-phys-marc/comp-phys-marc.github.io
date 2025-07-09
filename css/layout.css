@@ -502,7 +502,7 @@ ul#nav li.current a { color: #BB342F; }
 .quantum-mechanics-2 {
    width: 95%;
 }
-.directed-research-study-in-physics {
+.directed-research-study-in-quantum-computing {
    width: 95%;
 }
 .introduction-to-quantum-information-processing {
@@ -522,6 +522,9 @@ ul#nav li.current a { color: #BB342F; }
 }
 .quantum-circuits-and-compiling {
    width: 100%;
+}
+.advanced-topics-in-deep-learning {
+   width: 93%;
 }
 
 /* ------------------------------------------------------------------ */
