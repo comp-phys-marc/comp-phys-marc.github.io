@@ -126,7 +126,7 @@
                     imagebaseurl: "https://rbhatia46.github.io/",                     name: "Marcus Edwards",                     role: "Quantum Engineer",                     linkedinId: "",                     skypeid: "",                     roleDescription: "",                     socialLinks: [{
                         name: "linkedin",                         url: "https://www.linkedin.com/in/marcus-edwards-98ab8a220/",                         className: "fa fa-linkedin"
                     },                     {
-                        name: "github",                         url: "https://github.com/comp-phys-marc?tab=repositories",                         className: "fa fa-github"
+                        name: "github",                         url: "https://github.com/comp-phys-marc",                         className: "fa fa-github"
                     },                     {
                         name: "twitter",                         url: "https://x.com/comp_phys_mark",                         className: "fa fa-twitter"
                     },                     {
