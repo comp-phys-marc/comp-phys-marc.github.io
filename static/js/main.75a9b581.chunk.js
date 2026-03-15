@@ -128,7 +128,7 @@
                     },                     {
                         name: "github",                         url: "https://github.com/comp-phys-marc",                         className: "fa fa-github"
                     },                     {
-                        name: "twitter",                         url: "https://x.com/comp_phys_mark",                         className: "fa fa-twitter"
+                        name: "bluesky",                         url: "https://bsky.app/profile/marcusedwards.me",                         className: "fa fa-cloud"
                     },                     {
                         name: "website",                         url: "https://marcusedwards.me/web-portfolio",                         className: "fa fa-globe"
                     }],                     aboutme: "I completed a Masters in Quantum Information Science through the Institute for Quantum Computing at the University of Waterloo in 2020. After stints as a quantum software engineer at Photonic Inc, and a quantum hardware researcher in the Quantum Science and Technology Lab, I am now a software developer at Xanadu Quantum Technologies. This has meant periods focussing on the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, as well as the subfield of quantum devices / architecture in which I have also published recently in 2024 and 2025. Read on my Google Scholar. I have founded two profitable tech companies in the past, rQadium and Leadme Inc., building our products myself as a full stack software and hardware engineer.", address: "msedward@student.ubc.ca",                     website: "https://marcusedwards.me",                     education: [
