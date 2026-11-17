@@ -294,7 +294,7 @@ const root = document.getElementById('site'); root.querySelector('#research').af
             ],
             'Efficient Quantum State Tomography': [{label: 'Code', href: 'https://github.com/comp-phys-marc/QHack2024IRL'}],
             'Quantum Circuit Classifier': [{label: 'Code', href: 'https://github.com/comp-phys-marc/circuit-parsers'}],
-            'Heterostructure Field Effect Transistor Hallbars': [{label: 'Microscope images', href: 'https://www.linkedin.com/in/marcus-edwards-98ab8a220/details/projects/882287779/multiple-media-viewer/?profileId=ACoAADe0FPoBxzBVDgIC94a7gIwTRg5wB2m5miw&treasuryMediaId=1738196560063'}],
+            'Heterostructure Field Effect Transistor Hallbars': [{label: 'Microscope images', href: 'https://marcusedwards.me/files/hall1.jpg'}],
             'Quantum Device Carrier PCB': [{label: 'Design files', href: 'https://github.com/Quantum-Science-and-Technology-Lab/carrier_PCB'}],
             'Labber Experimental Physics Wrapper': [{label: 'Code', href: 'https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper'}],
             'Canadian Quantum Cup': [{label: 'Code', href: 'https://github.com/comp-phys-marc/canadian-quantum-cup'}],
